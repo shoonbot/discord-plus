@@ -3,9 +3,9 @@
 :root {
 	--background: url('https://i.imgur.com/3AiL3yN.png');
 	--accent-color: rgb(135,31,96);
-	--font: 'Poppins';
-	--font-text: 'Roboto';
-	--font-header: 'Righteous';
+	--font: 'Commic Sans MS';
+	--font-text: 'Comic Sans MS';
+	--font-header: 'Comic Sans MS';
 	--roundness: 10px;
 }
 
